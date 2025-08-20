@@ -129,7 +129,7 @@ const LocationSelector = () => {
           style={{
             fontSize: 14,
             fontWeight: "500",
-            marginBottom: 24, // extra spacing before list
+            marginBottom: 24, 
             color: "#333",
           }}
         >

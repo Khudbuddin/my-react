@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
   Dimensions,
 } from "react-native";
-import { Ionicons } from "@expo/vector-icons"; // vector icons
+import { Ionicons } from "@expo/vector-icons";
 
 const { width } = Dimensions.get("window"); // get screen width
 const cardWidth = width - 40; // card width with padding
