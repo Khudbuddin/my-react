@@ -1,6 +1,13 @@
-import { Stack } from "expo-router";
-import "./globals.css";
+import { Stack, Redirect } from 'expo-router';
 
-export default function RootLayout() {
-  return <Stack />;
+export default function Layout() {
+  return (
+    <>
+ 
+      <Redirect href="/one-work" />
+
+ 
+      <Stack />
+    </>
+  );
 }
