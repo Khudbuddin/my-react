@@ -13,7 +13,7 @@
 - 💡 Passionate about turning data into insights and building creative solutions  
 - 🤖 Exploring **Machine Learning**, **Data Analytics**, and **Front-End Technologies**  
 - 💬 Ask me about **Data Analysis, Python, and React Development**  
-- 📩 Reach me at **sayyadkhudbuddin@gmail.com**  
+- 📩 Reach me at **khudbuddin009@gmail.com**  
 
 ---
 
@@ -22,13 +22,10 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
@@ -46,7 +43,7 @@
 | Redux Toolkit | ███████░░░░░ 70% |
 | Front-End Design (HTML, CSS, Tailwind) | ██████████░░ 85% |
 | Git & GitHub | ███████████░ 90% |
-| MongoDB | ███████░░░░░ 70% |
+| MongoDB | ███████░░░░░ 60% |
 
 ---
 
