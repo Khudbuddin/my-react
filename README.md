@@ -37,12 +37,12 @@
 
 | Skill Area | Proficiency |
 |-------------|--------------|
-| Python | ██████████░░ 85% |
-| SQL & Data Visualization | ████████░░░░ 75% |
-| React / React Native | █████████░░░ 80% |
-| Redux Toolkit | ███████░░░░░ 70% |
-| Front-End Design (HTML, CSS, Tailwind) | ██████████░░ 85% |
-| Git & GitHub | ███████████░ 90% |
+| Python | ██████████░░ 50% |
+| SQL & Data Visualization | ████████░░░░ 60% |
+| React / React Native | █████████░░░ 50% |
+| Redux Toolkit | ███████░░░░░ 60% |
+| Front-End Design (HTML, CSS, Javascript) | ██████████░░ 85% |
+| Git & GitHub | ███████████░ 80% |
 | MongoDB | ███████░░░░░ 60% |
 
 ---
@@ -59,7 +59,7 @@
 
 - 📚 Improving skills in **Data Analytics** and **Visualization**  
 - 💻 Building real-world projects using **Python**, **SQL**, and **React**  
-- 🔍 Looking for an **internship opportunity** in **Data Analytics / Front-End Development**  
+- 🔍 Looking for an **internship opportunity** in **Data Analytics / Back-End Development**  
 
 ---
 
