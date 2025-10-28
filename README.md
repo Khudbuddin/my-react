@@ -1,50 +1,44 @@
-#                                       Hi👋, I am Sayyad Khudbuddin
+# 👋 Hi, I'm Sayyad Khudbuddin  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🎓 **B.Sc. Data Science Student** at **Bunts Sangha’s S.M. Shetty College**  
+💻 **Front-End Developer Intern** at *Front Ford Career Institute*  
+📊 Aspiring **Data Analyst | Front-End Developer | Tech Enthusiast**  
 
-## Get started
+---
 
-1. Install dependencies
+## 🌟 About Me
 
-   ```bash
-   npm install
-   ```
+I'm a passionate **second-year Data Science student** with a strong foundation in both **data analytics** and **front-end development**.  
+Currently, I'm enhancing my technical skills through hands-on projects and internships while actively seeking my **next internship opportunity** — one that will help me grow as a **Data Analyst** and apply my analytical mindset to real-world problems.
 
-2. Start the app
+I enjoy transforming **data into insights** and **designs into functional applications**.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧠 Skills Overview
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+| Category | Skills |
+|-----------|---------|
+| **Programming Languages** | Python, JavaScript, TypeScript |
+| **Data Science Tools** | Pandas, NumPy, Matplotlib, Excel |
+| **Front-End Development** | React, React Native, Expo, HTML, CSS, Tailwind |
+| **State Management** | Redux, Redux Toolkit |
+| **Database** | MongoDB, Firebase |
+| **Version Control** | Git, GitHub |
+| **Other Skills** | Problem Solving, Communication, Teamwork |
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📈 Skills Proficiency Graph
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```mermaid
+%%{init: {'theme': 'forest'}}%%
+graph TD
+    A[Programming Skills] -->|85%| B(Python)
+    A -->|80%| C(JavaScript / TypeScript)
+    D[Data Science] -->|75%| E(Pandas & NumPy)
+    D -->|70%| F(Data Visualization)
+    G[Front-End Development] -->|85%| H(React & React Native)
+    G -->|80%| I(UI/UX Design)
+    J[Tools & Frameworks] -->|90%| K(Git & GitHub)
+    J -->|70%| L(MongoDB)
