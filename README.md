@@ -1,44 +1,82 @@
-# 👋 Hi, I'm Sayyad Khudbuddin  
+  
+### Hi 👋, I'm **Sayyad Khudbuddin**  
 
-🎓 **B.Sc. Data Science Student** at **Bunts Sangha’s S.M. Shetty College**  
-💻 **Front-End Developer Intern** at *Front Ford Career Institute*  
-📊 Aspiring **Data Analyst | Front-End Developer | Tech Enthusiast**  
-
----
-
-## 🌟 About Me
-
-I'm a passionate **second-year Data Science student** with a strong foundation in both **data analytics** and **front-end development**.  
-Currently, I'm enhancing my technical skills through hands-on projects and internships while actively seeking my **next internship opportunity** — one that will help me grow as a **Data Analyst** and apply my analytical mindset to real-world problems.
-
-I enjoy transforming **data into insights** and **designs into functional applications**.
+🚀 **Aspiring Data Analyst** | **B.Sc. Data Science Student** | **Front-End Developer Intern**  
 
 ---
 
-## 🧠 Skills Overview
+## 🧠 About Me  
 
-| Category | Skills |
-|-----------|---------|
-| **Programming Languages** | Python, JavaScript, TypeScript |
-| **Data Science Tools** | Pandas, NumPy, Matplotlib, Excel |
-| **Front-End Development** | React, React Native, Expo, HTML, CSS, Tailwind |
-| **State Management** | Redux, Redux Toolkit |
-| **Database** | MongoDB, Firebase |
-| **Version Control** | Git, GitHub |
-| **Other Skills** | Problem Solving, Communication, Teamwork |
+- 🎓 **2nd Year B.Sc. Data Science Student** at *Bunts Sangha’s S.M. Shetty College*  
+- 💻 Currently interning at *Front Ford Career Institute* as a **Front-End Developer**  
+- 📊 Learning **Python**, **SQL**, and **Data Visualization Tools**  
+- 💡 Passionate about turning data into insights and building creative solutions  
+- 🤖 Exploring **Machine Learning**, **Data Analytics**, and **Front-End Technologies**  
+- 💬 Ask me about **Data Analysis, Python, and React Development**  
+- 📩 Reach me at **sayyadkhudbuddin@gmail.com**  
 
 ---
 
-## 📈 Skills Proficiency Graph
+## 🛠️ Languages and Tools  
 
-```mermaid
-%%{init: {'theme': 'forest'}}%%
-graph TD
-    A[Programming Skills] -->|85%| B(Python)
-    A -->|80%| C(JavaScript / TypeScript)
-    D[Data Science] -->|75%| E(Pandas & NumPy)
-    D -->|70%| F(Data Visualization)
-    G[Front-End Development] -->|85%| H(React & React Native)
-    G -->|80%| I(UI/UX Design)
-    J[Tools & Frameworks] -->|90%| K(Git & GitHub)
-    J -->|70%| L(MongoDB)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+</p>
+
+---
+
+## 📊 Skills Overview  
+
+| Skill Area | Proficiency |
+|-------------|--------------|
+| Python | ██████████░░ 85% |
+| SQL & Data Visualization | ████████░░░░ 75% |
+| React / React Native | █████████░░░ 80% |
+| Redux Toolkit | ███████░░░░░ 70% |
+| Front-End Design (HTML, CSS, Tailwind) | ██████████░░ 85% |
+| Git & GitHub | ███████████░ 90% |
+| MongoDB | ███████░░░░░ 70% |
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khudbuddin&show_icons=true&theme=tokyonight" alt="Sayyad Khudbuddin's GitHub stats"/>
+</p>
+
+---
+
+## 🎯 Current Goals  
+
+- 📚 Improving skills in **Data Analytics** and **Visualization**  
+- 💻 Building real-world projects using **Python**, **SQL**, and **React**  
+- 🔍 Looking for an **internship opportunity** in **Data Analytics / Front-End Development**  
+
+---
+
+## 🤝 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sayyad-khudbuddin-468762307" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sayyadkhudbuddin@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ *From [Khudbuddin](https://github.com/Khudbuddin)*  
