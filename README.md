@@ -27,10 +27,11 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/fluency/48/000000/database.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>  
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
 </p>
+
 
 ## 📊 Skills Overview  
 
